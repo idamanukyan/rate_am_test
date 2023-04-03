@@ -1,0 +1,2 @@
+# rate_am_test
+The contents of this repository are intended for those who are new to software testing and seeking to expand their knowledge in the field. Specifically, it provides an introduction to Selenium WebDriver and covers the basics of its usage. This resource can serve as a valuable starting point for individuals looking to gain a better understanding of how to effectively conduct software testing using Selenium WebDriver.
